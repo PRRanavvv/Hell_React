@@ -35,10 +35,6 @@ The application follows a component-based architecture with React.js, ensuring:
 - Optimized rendering performance
 - Clean separation of concerns
 
-## 📱 Screenshots
-
-*Add screenshots of your application here showing key features like homepage, restaurant listings, menu pages, cart, etc.*
-
 ## 🚦 Getting Started
 
 ### Prerequisites
