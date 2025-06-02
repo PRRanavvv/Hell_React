@@ -140,24 +140,16 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Inspired by Swiggy's original design and functionality
 - Thanks to the React.js and Tailwind CSS communities
-- Special thanks to all contributors and testers
+- Special thanks to all testers and mentored by Akshay Saini
 
 ## 📞 Support
 
 If you have any questions or need help with the project, please feel free to:
 - Open an issue on GitHub
-- Contact me via email
 - Connect with me on LinkedIn
 
 ---
